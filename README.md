@@ -7,10 +7,9 @@ This portfolio is based on my LinkedIn profile, education, professional experien
 ## Live Portfolio
 
 **Netlify:**
-https://YOUR-NETLIFY-LINK.netlify.app
-
+https://pavan21website.netlify.app/
 **GitHub Repository:**
-https://github.com/akpavan21/pavan-professional-portfolio
+https://github.com/akpavan21
 
 ## About This Portfolio
 
